@@ -1,0 +1,21 @@
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.exe.config
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.exe
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.pdb
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.FrmMain.resources
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.Properties.Resources.resources
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.csproj.GenerateResource.Cache
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.csproj.CoreCompileInputs.cache
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\Read Hardware Monitor.exe
+D:\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\Read Hardware Monitor.pdb
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.exe.config
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.exe
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\Read Hardware Monitor.pdb
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.FrmMain.resources
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.csproj.GenerateResource.Cache
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\ReadCPUID.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\Read Hardware Monitor.exe
+C:\Users\Administrator\Google Drive\Program\ReadCPUID\ReadCPUID\ReadCPUID\obj\Debug\Read Hardware Monitor.pdb
